@@ -1,8 +1,8 @@
-# Livro de Receitas :fork_and_knife:
+# Livro de Receitas  :man_cook:  
 
-Seja bem vindo ao meu livro de receitas :wink:  
+## Seja bem vindo ao meu livro de receitas :book:
 
-### Receitas  
+### Receitas :fork_and_knife:  
 
- - Strogonoff 
- - Pudim 
+- Strogonoff  
+- Pudim  
